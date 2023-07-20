@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IKaBnoqvHGVKMo2pe+2x4BAJfmnT4XHZo8rqv8d6OTUJkNTDGpGHUFuo5xC7o676zAPGK54pVwmC2MS6mxRdYQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\cwkam\\development\\MealPlanner\\MealPlanner.API\\MealPlanner.Scraper\\MealPlanner.Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cwkam\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\cwkam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cwkam\\.nuget\\packages\\selenium.webdriver\\4.10.0\\selenium.webdriver.4.10.0.nupkg.sha512",
+    "C:\\Users\\cwkam\\.nuget\\packages\\selenium.webdriver.chromedriver\\114.0.5735.9000\\selenium.webdriver.chromedriver.114.0.5735.9000.nupkg.sha512"
+  ],
+  "logs": []
+}
